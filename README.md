@@ -10,3 +10,5 @@ import pandas as pd
 import scipy.sparse as sp
 import typer
 ```
+
+## 2. Model Training
