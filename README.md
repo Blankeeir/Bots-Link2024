@@ -12,3 +12,4 @@ import typer
 ```
 
 ## 2. Model Training
+### BERT Model (Provided by GOOGLE)
